@@ -1,0 +1,105 @@
+body {
+	background-color: #bbb;
+	text-decoration: none;
+	background-image: url(../img/header-bg.jpg); no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	font-family: 'Handlee', cursive;
+	font-size: 15pt;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	margin: 0 0 10px 0;
+	border: 1px solid #DDD!important;
+	padding: 40px 65px 43px;
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	visibility: visible;
+}
+
+
+nav a{
+	text-decoration: none;
+	color: black;
+	background-color: #9bd21b;
+	font-family: 'Pacifico', sans-serif;
+    font-size: 30px;
+	padding: 5px;
+	/*border-style: solid;*/
+	border-radius: 2px;
+}
+
+.contact a{
+	text-decoration: none;
+	color: white;
+	font-family: 'Pacifico', sans-serif;
+    font-size: 150%;
+	padding: 205px;
+	/*border-style: solid;*/
+	border-radius: 2px;*/
+}
+
+img {
+	/*height: 15%;*/
+	width: 30%;
+	border-radius: 2px;*/
+}
+
+nav a:hover {
+	background-color: #c12107;
+	box-shadow: 3px 3px 5px black;
+
+}
+
+nav ul, li {
+	list-style-type: none;
+	display: inline-block;
+	margin: 15px;
+	padding: 10px
+	margin-left: 15em;
+
+}
+
+nav {
+	background-color: rgb(12, 11, 12);
+	/*margin-left: 30px;*/
+}
+
+.img_div {
+	background-color: rgb(12,11,12);
+	padding: 20px;
+
+}
+
+#logo {
+	font-family: 'Cookie', sans-serif;
+	font-size: 40px;
+	color: red;
+	text-shadow: 1px 1px 2px #c4c4c4
+	padding-left:20px;
+	padding-right: 40px;
+	margin-right: 10px;
+	margin-top: -20px;
+}
+	
+
+.img_d1 {
+	background-color: rgb(12,11,12);
+	padding: 20px;
+	font-family: 'Open+Sans', sans-serif;
+	font-size: 20px;
+	color: #7bdc40;
+	text-shadow: 1px 1px 2px #c4c4c4
+	padding-left:20px;
+	padding-right: 40px;
+	margin-right: 10px;
+	margin-top: -20px;
+
+}
+
+
+
